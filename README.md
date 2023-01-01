@@ -1,9 +1,9 @@
-# EASCII
+# ESCII
     Usage:
 
     NOTE: The Default ``space``  value is False
     *
-        from EASCII import Ealpha
+        from ESCII import Ealpha
         eth = Ealpha()
         print(eth.eord("ኢትዮጵያ", space=True))
         135 98 193 246 190
@@ -18,7 +18,7 @@
         135 98 193 246 190 0 1 209 42
     #################################################################
     *
-        from EASCII import Ealpha
+        from ESCII import Ealpha
         eth = Ealpha()
         print(eth.echr(1))
         ሀ
